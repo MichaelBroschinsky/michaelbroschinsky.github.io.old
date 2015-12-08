@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using DeckTape on Windows to create PDF versions of reveal.js presentations
+category: reveal.js
 ---
 
 * [DeckTape](https://github.com/astefanutti/decktape)
